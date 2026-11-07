@@ -1,0 +1,16 @@
+[project]
+name = "tbg-reveallayer"
+version = "0.2.0"
+description = "TBG RevealLayer — occlusion-aware image decomposition."
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.10"
+dynamic = ["dependencies"]
+
+[tool.setuptools.dynamic]
+dependencies = { file = ["requirements.txt"] }
+
+[tool.comfy]
+PublisherId = "tbg"
+DisplayName = "TBG RevealLayer"
+Icon = ""

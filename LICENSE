@@ -2,6 +2,24 @@ Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
+Copyright (c) 2026 TBG RevealLayer contributors
+
+## License and Attribution
+
+This project is licensed under the Apache License 2.0.
+
+This ComfyUI custom node is based on and adapts code from [RevealLayer](https://github.com/360CVGroup/RevealLayer), developed by 360 AI Research in collaboration with Wenzhou University.
+
+Original project:
+https://github.com/360CVGroup/RevealLayer
+
+The original RevealLayer project is licensed under Apache License 2.0.
+
+Modifications and ComfyUI integration © 2026 [Your Name].
+
+Third-party models, weights, and dependencies are subject to their respective licenses and terms of use.
+
+
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
    1. Definitions.

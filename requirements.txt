@@ -1,0 +1,7 @@
+# PyTorch/torchvision and native text encoders are supplied by ComfyUI.
+numpy>=1.26
+Pillow>=10.0
+safetensors>=0.4
+einops>=0.7
+packaging>=23.0
+filelock>=3.12

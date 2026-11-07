@@ -1,0 +1,14 @@
+TBG RevealLayer is an independent ComfyUI integration for the RevealLayer
+research project. Original integration code is MIT licensed. Model-specific
+decoder, refiner, attention, and pipeline adaptations are based on the public
+RevealLayer project, which identifies its license as Apache-2.0. The license
+text is included in assets/upstream/Apache-2.0.txt. Preserve this attribution
+when redistributing those adaptations. No model weights are distributed in Git.
+
+This folder includes two RevealLayer project images. Their source, authorship,
+revision, and license are recorded in assets/upstream/THIRD_PARTY_NOTICES.md.
+The Apache-2.0 license text for those images is in assets/upstream/Apache-2.0.txt.
+
+Upstream project: https://github.com/360CVGroup/RevealLayer
+Checkpoint publisher: https://huggingface.co/qihoo360/RevealLayer
+Project page: https://360cvgroup.github.io/RevealLayer/
